@@ -9,7 +9,7 @@ The app presents users with a simple book search form, which returns results fro
 # Screenshots
 
 ![search-screen](client/public/images/searchBook.png)
-![saved-books-screen](src/assets/images/savedBook.png)
+![saved-books-screen](client/public/images/savedBook.png)
 
 # Technology
 
