@@ -1,4 +1,4 @@
-# Book Search Engine Starter Code
+# Book Search Engine 
 
 An app that wraps Google Books' search to allow the user to select and save books in a list for future reading.
 
