@@ -6,6 +6,11 @@ An app that wraps Google Books' search to allow the user to select and save book
 
 The app presents users with a simple book search form, which returns results from Google Books. Results of the search are displayed below the search form. If the user is logged in, each result also includes a button to "Save this book" to the user's list, or to remove it, if it has alredy been saved.In the saved books view, the user is presented with the list of books they have saved, displayed similarly to the results on the book search page. To remove a book from the saved list, the user can click the button below the description.
 
+# Usage
+
+https://powerful-earth-92568.herokuapp.com/
+
+
 # Screenshots
 
 ![search-screen](client/public/images/searchBook.png)
